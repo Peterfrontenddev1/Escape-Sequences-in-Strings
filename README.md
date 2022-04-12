@@ -19,6 +19,7 @@ Code	Output
 \\	backslash
 
 \n	newline
+
 \r	carriage return
 \t	tab
 \b	word boundary
