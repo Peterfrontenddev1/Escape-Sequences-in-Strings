@@ -8,3 +8,4 @@ Quotes are not the only characters that can be escaped inside a string.
           
           2. To allow you to represent multiple quotes in a string without JavaScript misinterpreting what you mean.
 
+We learned this in the previous challenge.
